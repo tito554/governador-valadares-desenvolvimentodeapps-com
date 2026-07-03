@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://governador-valadares.desenvolvimentodeapps.com/sitemap.xml
